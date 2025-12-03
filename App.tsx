@@ -23,7 +23,7 @@ const App: React.FC = () => {
       icon: 'school'
     },
     {
-      year: '2020.09 - 2025.06',
+      year: '2020.09 - 2024.06',
       title: '学士課程 (データ科学)',
       organization: '南京農業大学',
       description: [
